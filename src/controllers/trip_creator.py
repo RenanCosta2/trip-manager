@@ -2,7 +2,7 @@ from typing import Dict
 import uuid
 
 class TripCreator:
-    def __init__(self, trips_repository, emails_repository) -> None:
+    def __init__(self, trip_repository, emails_repository) -> None:
         self.__trip_repository = trip_repository
         self.__emails_repository = emails_repository
 
