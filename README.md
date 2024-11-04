@@ -1,10 +1,14 @@
 # Trip Manager
 
+Este repositório contém o back-endde um projeto que foi desenvolvido como parte de um curso da **Rocketseat**.
+
 ## 📋 Visão Geral
 
-Este projeto foi desenvolvido como parte de um curso da **Rocketseat**. O objetivo é ajudar o usuário a organizar viagens à trabalho ou lazer. O usuário pode criar uma viagem com nome, data de início e fim. Dentro da viagem, o usuário pode planejar sua viagem adicionando atividades para realizar em cada dia.
+O objetivo é ajudar o usuário a organizar viagens à trabalho ou lazer. O usuário pode criar uma viagem com nome, data de início e fim. Dentro da viagem, o usuário pode planejar sua viagem adicionando atividades para realizar em cada dia.
 
 ## 🚀 Requisitos Funcionais
+
+Abaixo estão os requisitos funcionais que foram definidos para esse projeto.
 
 ### 1. Cadastro de Viagem
 
