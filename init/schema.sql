@@ -28,7 +28,7 @@ CREATE TABLE IF NOT EXISTS 'participants' (
     trip_id TEXT NOT NULL,
     emails_to_invite_id TEXT NOT NULL,
     name TEXT NOT NULL,
-    id_confirmed INTEGER,
+    is_confirmed INTEGER,
     FOREIGN KEY (trip_id) REFERENCES trips(id),
     FOREIGN KEY (emails_to_invite_id) REFERENCES emails_to_invite(id)
 );
