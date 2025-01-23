@@ -1,6 +1,6 @@
 # Trip Manager
 
-Este repositório contém o back-endde um projeto que foi desenvolvido como parte de um curso da **Rocketseat**.
+Este repositório contém o back-end de um projeto que foi desenvolvido como parte de um curso da **Rocketseat**.
 
 ## 📋 Visão Geral
 
